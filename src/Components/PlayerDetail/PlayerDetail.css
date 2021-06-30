@@ -1,0 +1,11 @@
+.profile-img{
+    margin: 20px 30px;
+}
+.profile-details{
+    margin-top: 40px;
+}
+.profile{
+    border: 1px solid blue;
+    margin-top: 20px;
+    width: 600px; 
+}

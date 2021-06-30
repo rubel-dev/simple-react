@@ -1,0 +1,72 @@
+[ 
+    {
+        "name":"Abdur Razzak",
+        "salary":500,
+        "team":"Bangladesh",
+        "playingRoll": "Bowler",
+        "img":"https://iili.io/oCDboX.gif"
+    },
+    {
+        "name":"Sakib Al Hasan",
+        "salary":1000,
+        "team":"Bangladesh",
+        "playingRoll": "All Rounder",
+        "img":"https://iili.io/oCbFNS.gif"
+    },
+    {
+        "name":"Mashrafe Bin Mortaza",
+        "salary":900,
+        "team":"Bangladesh",
+        "playingRoll": "Bowler",
+        "img":"https://iili.io/oCbBVe.gif"
+    },
+    {
+        "name":"Al-Amin Hossain",
+        "salary":400,
+        "team":"Bangladesh",
+        "playingRoll": "Bowler",
+        "img":"https://iili.io/oCbxlj.gif"
+    },
+    {
+        "name":"Imrul Kayes",
+        "salary":700,
+        "team":"Bangladesh",
+        "playingRoll": "Batsman",
+        "img":"https://iili.io/oCbTHQ.gif"
+    },
+    {
+        "name":"Tamim Iqbal",
+        "salary":1000,
+        "team":"Bangladesh",
+        "playingRoll": "Batsman",
+        "img":"https://iili.io/oCbRDP.gif"
+    },
+    {
+        "name":"Mohammad Mushfiqur Rahim",
+        "salary":1200,
+        "team":"Bangladesh",
+        "playingRoll": "Wicket Keeper",
+        "img":"https://iili.io/oCb7x1.gif"
+    },
+    {
+        "name":"Taskin Ahmed",
+        "salary":600,
+        "team":"Bangladesh",
+        "playingRoll": "Bowler",
+        "img":"https://iili.io/oCbaig.jpg"
+    },
+    {
+        "name":"Mohammad Mahmudullah",
+        "salary":1000,
+        "team":"Bangladesh",
+        "playingRoll": "All Rounder",
+        "img":"https://iili.io/oCbwsn.gif"
+    },
+    {
+        "name":"Taijul Islam",
+        "salary":400,
+        "team":"Bangladesh",
+        "playingRoll": "Bowler",
+        "img":"https://iili.io/oCbe0G.gif"
+    }
+]
